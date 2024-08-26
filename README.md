@@ -5,7 +5,7 @@ My name is Yegor Laptyonok, I am a student of [Belarusian State University](http
 ## 🌐 Socials:
 
 [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/yeg751) 
-<a href="https://github.com/sva4rd/sva4rd/master/Laptyonok_Yegor_CV.pdf">
+<a href="https://github.com/sva4rd/sva4rd/blob/master/Laptyonok_Yegor_CV.pdf">
         <img src="https://img.shields.io/badge/CV-blue?style=flat-square" alt="CV">
     </a>
 
